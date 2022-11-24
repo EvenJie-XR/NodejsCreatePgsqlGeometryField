@@ -1,0 +1,1829 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05525927439325,
+                    22.576712930390755
+                ]
+            },
+            "properties": {
+                "pcode": "8R5580",
+                "code": "R11523001",
+                "connectCod": "R11423047",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505682.832303,
+                "locationY": 2497663.36961,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 31.95,
+                "headHeight": 30.75,
+                "inHeight": 0,
+                "buriedDept": 1.2,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05525927439325,
+                    22.576712930390755
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523002",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505682.832303,
+                "locationY": 2497663.36961,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 31.95,
+                "headHeight": 30.75,
+                "inHeight": 0,
+                "buriedDept": 1.2,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05554634116736,
+                    22.576724966533423
+                ]
+            },
+            "properties": {
+                "pcode": "8R5581",
+                "code": "R11523002",
+                "connectCod": "R11523003",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505712.353597,
+                "locationY": 2497664.71343,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.24,
+                "headHeight": 30.99,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05554634116736,
+                    22.576724966533423
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523001",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505712.353597,
+                "locationY": 2497664.71343,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.24,
+                "headHeight": 30.99,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05555391986456,
+                    22.57672535492608
+                ]
+            },
+            "properties": {
+                "pcode": "8R5582",
+                "code": "R11523003",
+                "connectCod": "R11523002",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "凝水缸",
+                "locationX": 505713.13297,
+                "locationY": 2497664.75673,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.25,
+                "headHeight": 31,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05555391986456,
+                    22.57672535492608
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523004",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "凝水缸",
+                "locationX": 505713.13297,
+                "locationY": 2497664.75673,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.25,
+                "headHeight": 31,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05556306065803,
+                    22.576725406308945
+                ]
+            },
+            "properties": {
+                "pcode": "8R5583",
+                "code": "R11523004",
+                "connectCod": "R11523003",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505714.073002,
+                "locationY": 2497664.76277,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.26,
+                "headHeight": 31.01,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05556306065803,
+                    22.576725406308945
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523005",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505714.073002,
+                "locationY": 2497664.76277,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.26,
+                "headHeight": 31.01,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05582598493626,
+                    22.576733364804817
+                ]
+            },
+            "properties": {
+                "pcode": "8R5584",
+                "code": "R11523005",
+                "connectCod": "R11523004",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "三通",
+                "appendage": "",
+                "locationX": 505741.111659,
+                "locationY": 2497665.65417,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.6,
+                "headHeight": 31.35,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05582598493626,
+                    22.576733364804817
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523006",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "三通",
+                "appendage": "",
+                "locationX": 505741.111659,
+                "locationY": 2497665.65417,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.6,
+                "headHeight": 31.35,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05582598493626,
+                    22.576733364804817
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523020",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "三通",
+                "appendage": "",
+                "locationX": 505741.111659,
+                "locationY": 2497665.65417,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.6,
+                "headHeight": 31.35,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05582681728926,
+                    22.576757401574525
+                ]
+            },
+            "properties": {
+                "pcode": "8R5585",
+                "code": "R11523006",
+                "connectCod": "R11523005",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505741.196262,
+                "locationY": 2497668.31599,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.65,
+                "headHeight": 31.28,
+                "inHeight": 0,
+                "buriedDept": 1.37,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05582681728926,
+                    22.576757401574525
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523007",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505741.196262,
+                "locationY": 2497668.31599,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.65,
+                "headHeight": 31.28,
+                "inHeight": 0,
+                "buriedDept": 1.37,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05591021395774,
+                    22.576824895186142
+                ]
+            },
+            "properties": {
+                "pcode": "8R5586",
+                "code": "R11523007",
+                "connectCod": "R11523008",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505749.769927,
+                "locationY": 2497675.79332,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.82,
+                "headHeight": 31.41,
+                "inHeight": 0,
+                "buriedDept": 1.41,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05591021395774,
+                    22.576824895186142
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523006",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505749.769927,
+                "locationY": 2497675.79332,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.82,
+                "headHeight": 31.41,
+                "inHeight": 0,
+                "buriedDept": 1.41,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559175278327,
+                    22.576856257705806
+                ]
+            },
+            "properties": {
+                "pcode": "8R5587",
+                "code": "R11523008",
+                "connectCod": "R11523009",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505750.52078,
+                "locationY": 2497679.26663,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.86,
+                "headHeight": 31.41,
+                "inHeight": 0,
+                "buriedDept": 1.45,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559175278327,
+                    22.576856257705806
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523007",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505750.52078,
+                "locationY": 2497679.26663,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.86,
+                "headHeight": 31.41,
+                "inHeight": 0,
+                "buriedDept": 1.45,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05601103101118,
+                    22.577308470977666
+                ]
+            },
+            "properties": {
+                "pcode": "8R5588",
+                "code": "R11523009",
+                "connectCod": "R11523010",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505760.117791,
+                "locationY": 2497729.34751,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.52,
+                "headHeight": 32.12,
+                "inHeight": 0,
+                "buriedDept": 1.4,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05601103101118,
+                    22.577308470977666
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523008",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505760.117791,
+                "locationY": 2497729.34751,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.52,
+                "headHeight": 32.12,
+                "inHeight": 0,
+                "buriedDept": 1.4,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05613917294521,
+                    22.577927581880108
+                ]
+            },
+            "properties": {
+                "pcode": "8R5589",
+                "code": "R11523010",
+                "connectCod": "R11523009",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "终止点",
+                "appendage": "盖堵",
+                "locationX": 505773.26999,
+                "locationY": 2497797.91168,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.47,
+                "headHeight": 33.09,
+                "inHeight": 0,
+                "buriedDept": 1.38,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05525986290155,
+                    22.57670183076375
+                ]
+            },
+            "properties": {
+                "pcode": "8R5590",
+                "code": "R11523011",
+                "connectCod": "R11423051",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505682.89328,
+                "locationY": 2497662.14048,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 31.93,
+                "headHeight": 30.63,
+                "inHeight": 0,
+                "buriedDept": 1.3,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05525986290155,
+                    22.57670183076375
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523012",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505682.89328,
+                "locationY": 2497662.14048,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 31.93,
+                "headHeight": 30.63,
+                "inHeight": 0,
+                "buriedDept": 1.3,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05569859752096,
+                    22.57672181706981
+                ]
+            },
+            "properties": {
+                "pcode": "8R5591",
+                "code": "R11523012",
+                "connectCod": "R11523013",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505728.011686,
+                "locationY": 2497664.3705,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.42,
+                "headHeight": 30.92,
+                "inHeight": 0,
+                "buriedDept": 1.5,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05569859752096,
+                    22.57672181706981
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523011",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505728.011686,
+                "locationY": 2497664.3705,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.42,
+                "headHeight": 30.92,
+                "inHeight": 0,
+                "buriedDept": 1.5,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05579583403384,
+                    22.576722691877936
+                ]
+            },
+            "properties": {
+                "pcode": "8R5592",
+                "code": "R11523013",
+                "connectCod": "R11523014",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505738.011399,
+                "locationY": 2497664.47111,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.54,
+                "headHeight": 30.89,
+                "inHeight": 0,
+                "buriedDept": 1.65,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05579583403384,
+                    22.576722691877936
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523012",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505738.011399,
+                "locationY": 2497664.47111,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.54,
+                "headHeight": 30.89,
+                "inHeight": 0,
+                "buriedDept": 1.65,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0558454082617,
+                    22.57676193447108
+                ]
+            },
+            "properties": {
+                "pcode": "8R5593",
+                "code": "R11523014",
+                "connectCod": "R11523015",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505743.107959,
+                "locationY": 2497668.81867,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.67,
+                "headHeight": 31.04,
+                "inHeight": 0,
+                "buriedDept": 1.63,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0558454082617,
+                    22.57676193447108
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523013",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505743.107959,
+                "locationY": 2497668.81867,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.67,
+                "headHeight": 31.04,
+                "inHeight": 0,
+                "buriedDept": 1.63,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559070572603,
+                    22.576757019420437
+                ]
+            },
+            "properties": {
+                "pcode": "8R5594",
+                "code": "R11523015",
+                "connectCod": "R11523023",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "三通",
+                "appendage": "",
+                "locationX": 505749.44811,
+                "locationY": 2497668.27676,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.49,
+                "headHeight": 30.86,
+                "inHeight": 0,
+                "buriedDept": 1.63,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559070572603,
+                    22.576757019420437
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523016",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "三通",
+                "appendage": "",
+                "locationX": 505749.44811,
+                "locationY": 2497668.27676,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.49,
+                "headHeight": 30.86,
+                "inHeight": 0,
+                "buriedDept": 1.63,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559070572603,
+                    22.576757019420437
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523014",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "三通",
+                "appendage": "",
+                "locationX": 505749.44811,
+                "locationY": 2497668.27676,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.49,
+                "headHeight": 30.86,
+                "inHeight": 0,
+                "buriedDept": 1.63,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05602264627596,
+                    22.57730612211872
+                ]
+            },
+            "properties": {
+                "pcode": "8R5595",
+                "code": "R11523016",
+                "connectCod": "R11523017",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505761.312391,
+                "locationY": 2497729.08785,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.5,
+                "headHeight": 31.83,
+                "inHeight": 0,
+                "buriedDept": 1.67,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05602264627596,
+                    22.57730612211872
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523015",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505761.312391,
+                "locationY": 2497729.08785,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.5,
+                "headHeight": 31.83,
+                "inHeight": 0,
+                "buriedDept": 1.67,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05613557239883,
+                    22.57784651318355
+                ]
+            },
+            "properties": {
+                "pcode": "8R5596",
+                "code": "R11523017",
+                "connectCod": "R11523018",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505772.903092,
+                "locationY": 2497788.93414,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.34,
+                "headHeight": 32.93,
+                "inHeight": 0,
+                "buriedDept": 1.41,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05613557239883,
+                    22.57784651318355
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523016",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505772.903092,
+                "locationY": 2497788.93414,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.34,
+                "headHeight": 32.93,
+                "inHeight": 0,
+                "buriedDept": 1.41,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0562151170426,
+                    22.57820963958112
+                ]
+            },
+            "properties": {
+                "pcode": "8R5597",
+                "code": "R11523018",
+                "connectCod": "R11523032",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505781.068205,
+                "locationY": 2497829.14918,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 35.15,
+                "headHeight": 33.65,
+                "inHeight": 0,
+                "buriedDept": 1.5,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0562151170426,
+                    22.57820963958112
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523017",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505781.068205,
+                "locationY": 2497829.14918,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 35.15,
+                "headHeight": 33.65,
+                "inHeight": 0,
+                "buriedDept": 1.5,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05640907913913,
+                    22.576523927283944
+                ]
+            },
+            "properties": {
+                "pcode": "8R5598",
+                "code": "R11523019",
+                "connectCod": "R11523020",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505801.085506,
+                "locationY": 2497642.48399,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.38,
+                "headHeight": 33.13,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05640907913913,
+                    22.576523927283944
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11522252",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505801.085506,
+                "locationY": 2497642.48399,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.38,
+                "headHeight": 33.13,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05607738289197,
+                    22.57667918779702
+                ]
+            },
+            "properties": {
+                "pcode": "8R5599",
+                "code": "R11523020",
+                "connectCod": "R11523005",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505766.967538,
+                "locationY": 2497659.6644,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.07,
+                "headHeight": 31.87,
+                "inHeight": 0,
+                "buriedDept": 1.2,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05607738289197,
+                    22.57667918779702
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523019",
+                "buriedMeth": "管埋",
+                "pipelineMa": "塑胶",
+                "pipelineSi": "400",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505766.967538,
+                "locationY": 2497659.6644,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.07,
+                "headHeight": 31.87,
+                "inHeight": 0,
+                "buriedDept": 1.2,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05640606851544,
+                    22.576518281055826
+                ]
+            },
+            "properties": {
+                "pcode": "8R5600",
+                "code": "R11523021",
+                "connectCod": "R11523022",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505800.776131,
+                "locationY": 2497641.85862,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.36,
+                "headHeight": 32.98,
+                "inHeight": 0,
+                "buriedDept": 1.38,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05640606851544,
+                    22.576518281055826
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11522274",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "",
+                "locationX": 505800.776131,
+                "locationY": 2497641.85862,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 34.36,
+                "headHeight": 32.98,
+                "inHeight": 0,
+                "buriedDept": 1.38,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0560966484107,
+                    22.576662416754615
+                ]
+            },
+            "properties": {
+                "pcode": "8R5601",
+                "code": "R11523022",
+                "connectCod": "R11523021",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505768.949492,
+                "locationY": 2497657.80795,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.13,
+                "headHeight": 31.88,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0560966484107,
+                    22.576662416754615
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523023",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505768.949492,
+                "locationY": 2497657.80795,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 33.13,
+                "headHeight": 31.88,
+                "inHeight": 0,
+                "buriedDept": 1.25,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05589284088191,
+                    22.576703874220467
+                ]
+            },
+            "properties": {
+                "pcode": "8R5602",
+                "code": "R11523023",
+                "connectCod": "R11523015",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505747.98831,
+                "locationY": 2497662.39101,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.53,
+                "headHeight": 31.26,
+                "inHeight": 0,
+                "buriedDept": 1.27,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05589284088191,
+                    22.576703874220467
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523022",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505747.98831,
+                "locationY": 2497662.39101,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 32.53,
+                "headHeight": 31.26,
+                "inHeight": 0,
+                "buriedDept": 1.27,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05629269745994,
+                    22.57835733326913
+                ]
+            },
+            "properties": {
+                "pcode": "8R5611",
+                "code": "R11523032",
+                "connectCod": "R11523033",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505789.040277,
+                "locationY": 2497845.50752,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 47.53,
+                "headHeight": 46.83,
+                "inHeight": 0,
+                "buriedDept": 0.7,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05629269745994,
+                    22.57835733326913
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523018",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505789.040277,
+                "locationY": 2497845.50752,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 47.53,
+                "headHeight": 46.83,
+                "inHeight": 0,
+                "buriedDept": 0.7,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05611093476833,
+                    22.57849784738391
+                ]
+            },
+            "properties": {
+                "pcode": "8R5612",
+                "code": "R11523033",
+                "connectCod": "R11523034",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505770.342272,
+                "locationY": 2497861.06076,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 51.13,
+                "headHeight": 49.87,
+                "inHeight": 0,
+                "buriedDept": 1.26,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05611093476833,
+                    22.57849784738391
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523032",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505770.342272,
+                "locationY": 2497861.06076,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 51.13,
+                "headHeight": 49.87,
+                "inHeight": 0,
+                "buriedDept": 1.26,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559306279322,
+                    22.578589794165076
+                ]
+            },
+            "properties": {
+                "pcode": "8R5613",
+                "code": "R11523034",
+                "connectCod": "R11523033",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505751.796038,
+                "locationY": 2497871.23582,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 56.1,
+                "headHeight": 54.3,
+                "inHeight": 0,
+                "buriedDept": 1.8,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0559306279322,
+                    22.578589794165076
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523035",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505751.796038,
+                "locationY": 2497871.23582,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 56.1,
+                "headHeight": 54.3,
+                "inHeight": 0,
+                "buriedDept": 1.8,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05586581128925,
+                    22.578760118017026
+                ]
+            },
+            "properties": {
+                "pcode": "8R5614",
+                "code": "R11523035",
+                "connectCod": "R11523036",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505745.123359,
+                "locationY": 2497890.09468,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 67.66,
+                "headHeight": 65.96,
+                "inHeight": 0,
+                "buriedDept": 1.7,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05586581128925,
+                    22.578760118017026
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11523034",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "拐点",
+                "appendage": "",
+                "locationX": 505745.123359,
+                "locationY": 2497890.09468,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 67.66,
+                "headHeight": 65.96,
+                "inHeight": 0,
+                "buriedDept": 1.7,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05577799532684,
+                    22.578868129055508
+                ]
+            },
+            "properties": {
+                "pcode": "8R5615",
+                "code": "R11523036",
+                "connectCod": "R11523035",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505736.088076,
+                "locationY": 2497902.05225,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 72.29,
+                "headHeight": 71.11,
+                "inHeight": 0,
+                "buriedDept": 1.18,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.05577799532684,
+                    22.578868129055508
+                ]
+            },
+            "properties": {
+                "pcode": "",
+                "code": "",
+                "connectCod": "R11423054",
+                "buriedMeth": "管埋",
+                "pipelineMa": "钢",
+                "pipelineSi": "500",
+                "features": "直线点",
+                "appendage": "检修井",
+                "locationX": 505736.088076,
+                "locationY": 2497902.05225,
+                "planeX": 0,
+                "planeY": 0,
+                "floorHeigh": 72.29,
+                "headHeight": 71.11,
+                "inHeight": 0,
+                "buriedDept": 1.18,
+                "useNum": "",
+                "array": "",
+                "buriedDate": "2006-12-02T00:00:00.000Z",
+                "remark": ""
+            }
+        }
+    ]
+}
